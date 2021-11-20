@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @lindaniele
-- 👀 I’m interested in python, anime, volleyball...
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on anything python related
-- 📫 How to reach me: lindaniele25@gmail.com
+- 🏐 Highschooler, I live for Volleyball
+- 🌱 Python is my native language, C++ my L2
+- 🐍 I’m looking to collaborate on anything
+- 💞️ Feel free to DM me on Instagram @lindniele
+- 📫 Reach me via mail lindaniele25@gmail.com
 
 <!---
 lindaniele/lindaniele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
