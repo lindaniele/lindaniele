@@ -1,6 +1,6 @@
 I've never seen a highschool guy who's an athletic volleyballer, yet a genius programmer.
 
-@lindniele on IG\
+[@lindniele](https://www.instagram.com/lindniele/)\
 lindaniele25@gmail.com
 
 <!---
