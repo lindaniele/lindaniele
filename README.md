@@ -26,6 +26,7 @@ Anyway.
 - 🌱 I'm learning **C++**
 - 🏐 I play **setter**
 - 📫 Contact me: **lindaniele@protonmail.com**
+- 📱 Instagram: [**lindniele**](https://www.instagram.com/lindniele)
   
 
 ## 💻 Tech
