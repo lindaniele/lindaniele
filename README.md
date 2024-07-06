@@ -1,9 +1,7 @@
 # 👋 Ciao
 Computer Science BEng @ the Polytechnic University of Milan.
 
-My name is Daniele (or 林子雋, Lin Tsu-chün). I play volleyball. I also like philosophy, dead languages, and Italian literature
-
-Beauty will save the world.
+My name is Daniele (or 林子雋, Lin Tsu-chün). I play volleyball. I also like philosophy, dead languages, and Italian literature!
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=lindaniele) -->
 
